@@ -1,0 +1,10 @@
+H:\SI7_C#\AppCashflow\Metier\bin\Debug\Metier.dll
+H:\SI7_C#\AppCashflow\Metier\bin\Debug\Metier.pdb
+H:\SI7_C#\AppCashflow\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+H:\SI7_C#\AppCashflow\Metier\obj\Debug\Metier.dll
+H:\SI7_C#\AppCashflow\Metier\obj\Debug\Metier.pdb
+E:\B2SIO2\SI7\BROCARD_TP_CASHFLOW\AppCashflow\Metier\bin\Debug\Metier.dll
+E:\B2SIO2\SI7\BROCARD_TP_CASHFLOW\AppCashflow\Metier\bin\Debug\Metier.pdb
+E:\B2SIO2\SI7\BROCARD_TP_CASHFLOW\AppCashflow\Metier\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+E:\B2SIO2\SI7\BROCARD_TP_CASHFLOW\AppCashflow\Metier\obj\Debug\Metier.dll
+E:\B2SIO2\SI7\BROCARD_TP_CASHFLOW\AppCashflow\Metier\obj\Debug\Metier.pdb
